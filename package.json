@@ -1,0 +1,25 @@
+{
+  "name": "unit-conversion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ellamm/unit-conversion.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ellamm/unit-conversion/issues"
+  },
+  "homepage": "https://github.com/ellamm/unit-conversion#readme",
+  "dependencies": {
+    "vite": "^6.3.3"
+  }
+}
