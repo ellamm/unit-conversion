@@ -2,7 +2,7 @@
 
 A simple, fast, and accurate web application for converting between metric and imperial units. Perfect for everyday use, travel, cooking, and professional applications.
 
-The website was build during Scrimba Frontend Development Career Path. 
+The website was build during *Scrimba Frontend Development Career Path*.
 
 🌐 **Live App**: [https://unit-conversion-mm.netlify.app/](https://unit-conversion-mm.netlify.app/)
 
